@@ -2,7 +2,7 @@
 
 **Purpose:** 
 
-Compute BoTW feature relevances of the AVEC'17 challenge package
+Compute BoTW feature relevance scores for the AVEC'17 challenge package (easily extendable to AVEC'18 challenge).
 
 **How to:** 
 
