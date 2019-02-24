@@ -18,7 +18,7 @@ pandas, numpy, matplotlib, keras, innvestigate
 
 **Caveat**: 
 
-"Ok, janitor will be here soon... Ah, not house, the script is untidy?! Ok, we may clean it up soon and are even considering sending it for a beauty contest, but oh well..." (We'll keep you posted...) 
+"Ok, janitor will be here soon... Ah, not house, the script is untidy?!" Ok, we may clean it up soon and are even considering sending it for a beauty contest, but oh well... We'll keep you posted! 
 
 In any case, the code here works fine and is (hopefully) easy to understand. :) If you need some advice, tips, documentation, or just interested in building on top of this work in any way, please feel free to reach out. 
 
