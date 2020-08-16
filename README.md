@@ -16,12 +16,6 @@ Compute BoTW feature relevance scores for the AVEC'17 challenge package (easily 
 
 pandas, numpy, matplotlib, keras, innvestigate
 
-**Additional Notes**: 
-
-The code posted here should work fine. If you need some advice, tips, documentation, or just interested in building on top of this work in any way, please feel free to reach out. 
-
-We are happy to help and/or collaborate. Stalk us to find our postal address to send us a snail-mail, or wait... Better yet, let's save you all that trouble! Here're my email addresses for this project. Happy coding! :)
-
 **Citation**:
 
 If you use this code, please star the repository and cite the following paper:
@@ -37,6 +31,12 @@ Pandit, Vedhas, Maximilian Schmitt, Nicholas Cummins, and Björn Schuller. "[I k
   organization={IEEE}
 }
 ```
+**Additional Notes**: 
+
+The code posted here should work fine. If you need some advice, tips, documentation, or just interested in building on top of this work in any way, please feel free to reach out. 
+
+We are happy to help and/or collaborate. Stalk us to find our postal address to send us a snail-mail, or wait... Better yet, let's save you all that trouble! Here're my email addresses for this project. Happy coding! :)
+
 **Contact:** 
 
 Vedhas Pandit (panditvedhas@gmail.com, vedhas.pandit@informatik.uni-augsburg.de)
